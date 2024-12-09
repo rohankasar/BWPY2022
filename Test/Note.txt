@@ -1,1 +1,4 @@
 Rohan
+
+  git config --global user.email "eva.rohank@gmail.com"
+  git config --global user.name "rohankasar"
