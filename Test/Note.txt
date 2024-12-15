@@ -1,4 +1,0 @@
-Rohan
-
-  git config --global user.email "eva.rohank@gmail.com"
- 
